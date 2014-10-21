@@ -1,0 +1,9 @@
+recipes:
+    global:
+        - applications::kms
+attributes:
+    postfix:
+        domain: "ferris.tv"
+    homebrewalt:
+        cask_apps:
+            - slack
