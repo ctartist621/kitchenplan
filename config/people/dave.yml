@@ -56,7 +56,6 @@ attributes:
             #- totalfinder
             - spotify
             - bartender
-            - vmware-fusion
             - vagrant
             - hazel
             - sonos
