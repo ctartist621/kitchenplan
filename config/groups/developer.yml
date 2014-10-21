@@ -40,7 +40,7 @@ attributes:
             - git
             - git-extras
             - wget
-            - pwgen
+            #- pwgen
             - xmlstarlet
             - htop-osx
             - git-flow
