@@ -3,7 +3,6 @@ recipes:
         - applications::create_var_chef_cache
     mac_os_x:
         - homebrewalt::default
-        - nodejs::default
         - drivers::xerox550
         - osxdefaults::disable_auto-correct
         - osxdefaults::enable_subpixel_font_rendering_on_non-apple_lcds

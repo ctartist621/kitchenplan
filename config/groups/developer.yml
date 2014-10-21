@@ -53,13 +53,6 @@ attributes:
             - phpstorm
             - sequel-pro
             - sourcetree
-    #nodejs:
-        #apps:
-            #- uglify-js
-            #- uglifycss
-            #- bower
-            #- grunt
-            #- grunt-cli
     gems:
         - sass
     #php-apps:
