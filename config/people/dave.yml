@@ -53,7 +53,7 @@ attributes:
             - istat-menus
             - kaleidoscope
             - alfred
-            - totalfinder
+            #- totalfinder
             - spotify
             - bartender
             - vmware-fusion
